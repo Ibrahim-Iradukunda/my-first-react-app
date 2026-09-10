@@ -1,0 +1,12 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+body {
+  margin: 0;
+  background: #fff9ef;
+  color: #173c43;
+  font-family: Georgia, 'Times New Roman', serif;
+  -webkit-font-smoothing: antialiased;
+}
